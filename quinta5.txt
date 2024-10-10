@@ -1,0 +1,11 @@
+5) Problema dos interruptores e lâmpadas:
+Solução lógica:
+
+Ligue o primeiro interruptor e deixe ligado por alguns minutos. Isso permitirá que a lâmpada aqueça.
+Desligue o primeiro interruptor e ligue o segundo.
+Vá até a sala das lâmpadas:
+A lâmpada que está acesa corresponde ao segundo interruptor.
+A lâmpada que está apagada mas está quente corresponde ao primeiro interruptor.
+A lâmpada que está apagada e fria corresponde ao terceiro interruptor.
+Com essa abordagem, você descobre qual interruptor corresponde a cada lâmpada com apenas uma visita adicional.
+
